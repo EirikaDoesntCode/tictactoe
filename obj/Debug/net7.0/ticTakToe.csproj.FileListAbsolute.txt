@@ -1,0 +1,15 @@
+/home/eirika/soloProjects/ticTakToe/bin/Debug/net7.0/ticTakToe
+/home/eirika/soloProjects/ticTakToe/bin/Debug/net7.0/ticTakToe.deps.json
+/home/eirika/soloProjects/ticTakToe/bin/Debug/net7.0/ticTakToe.runtimeconfig.json
+/home/eirika/soloProjects/ticTakToe/bin/Debug/net7.0/ticTakToe.dll
+/home/eirika/soloProjects/ticTakToe/bin/Debug/net7.0/ticTakToe.pdb
+/home/eirika/soloProjects/ticTakToe/obj/Debug/net7.0/ticTakToe.csproj.AssemblyReference.cache
+/home/eirika/soloProjects/ticTakToe/obj/Debug/net7.0/ticTakToe.GeneratedMSBuildEditorConfig.editorconfig
+/home/eirika/soloProjects/ticTakToe/obj/Debug/net7.0/ticTakToe.AssemblyInfoInputs.cache
+/home/eirika/soloProjects/ticTakToe/obj/Debug/net7.0/ticTakToe.AssemblyInfo.cs
+/home/eirika/soloProjects/ticTakToe/obj/Debug/net7.0/ticTakToe.csproj.CoreCompileInputs.cache
+/home/eirika/soloProjects/ticTakToe/obj/Debug/net7.0/ticTakToe.dll
+/home/eirika/soloProjects/ticTakToe/obj/Debug/net7.0/refint/ticTakToe.dll
+/home/eirika/soloProjects/ticTakToe/obj/Debug/net7.0/ticTakToe.pdb
+/home/eirika/soloProjects/ticTakToe/obj/Debug/net7.0/ticTakToe.genruntimeconfig.cache
+/home/eirika/soloProjects/ticTakToe/obj/Debug/net7.0/ref/ticTakToe.dll
